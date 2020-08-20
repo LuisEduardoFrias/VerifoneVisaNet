@@ -1,0 +1,7 @@
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\bin\Debug\varifoneVisaNet.exe.config
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\bin\Debug\varifoneVisaNet.exe
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\bin\Debug\varifoneVisaNet.pdb
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\obj\Debug\varifoneVisaNet.csprojAssemblyReference.cache
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\obj\Debug\varifoneVisaNet.csproj.CoreCompileInputs.cache
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\obj\Debug\varifoneVisaNet.exe
+C:\ProyectosVS\varifoneVisaNet\varifoneVisaNet\obj\Debug\varifoneVisaNet.pdb
